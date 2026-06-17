@@ -1,0 +1,9 @@
+                                        Min / max grade flags from %minmaxgrades                                        
+
+ school  adult_flag  grade_min  grade_max
+ElemA             .         -1          4
+MiddleB           .          6          8
+HighC             .          9         12
+PkOnlyD           .         -1         -1
+AdultE            1          .          .
+

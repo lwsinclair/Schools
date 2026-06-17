@@ -1,0 +1,8 @@
+                                  Census blocks mapped to Senior High Attendance Zones                                  
+
+     geoblk2010  Senior High School Attendance Zone
+110010001001000  Anacostia HS Zone
+110010002001001  Ballou HS Zone
+110010003002005  Cardozo HS Zone
+110019999999999  Unzoned
+

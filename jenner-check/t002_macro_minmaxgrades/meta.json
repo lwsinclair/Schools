@@ -1,0 +1,8 @@
+{
+  "bundle": "t002_macro_minmaxgrades",
+  "source_file": "Macros/MinMaxGrades.sas",
+  "source_blob_sha": "397e58aab93a16f384026932ab631e966f042b48",
+  "source_commit": "f72f4382088f2c66e3f73e1784dd2c4cb9da5d30",
+  "tier": "real_data",
+  "notes": "Caller for %minmaxgrades (macro reproduced verbatim): derives adult_flag / grade_min / grade_max from per-grade enrollment counts over 5 mock schools."
+}

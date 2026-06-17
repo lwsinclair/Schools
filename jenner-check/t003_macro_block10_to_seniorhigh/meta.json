@@ -1,0 +1,8 @@
+{
+  "bundle": "t003_macro_block10_to_seniorhigh",
+  "source_file": "Macros/Block10_to_seniorhigh.sas",
+  "source_blob_sha": "fc873f522ab640258daa9f2fa49c8fa94d9b94d8",
+  "source_commit": "f72f4382088f2c66e3f73e1784dd2c4cb9da5d30",
+  "tier": "real_data",
+  "notes": "Caller for %Block10_to_seniorhigh (macro reproduced verbatim): maps 2010 Census block IDs to DC Senior High Attendance Zones via mock $bk1seniorhigh./$seniorhigha. formats with format=Y."
+}

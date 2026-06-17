@@ -1,0 +1,8 @@
+{
+  "bundle": "t004_school_formats_grade",
+  "source_file": "Prog/School Formats.sas",
+  "source_blob_sha": "9afb980d01fbbc33053e237dbcf3eddd86b31d1f",
+  "source_commit": "f72f4382088f2c66e3f73e1784dd2c4cb9da5d30",
+  "tier": "real_data",
+  "notes": "$SchType VALUE block reproduced verbatim from School Formats.sas, applied to a mock school file via PROC FREQ + PROC MEANS class."
+}
